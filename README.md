@@ -62,5 +62,3 @@ The LSTM model achieved an 86% accuracy in classifying drug review sentiments. T
 ## Acknowledgments
 Special thanks to all the contributors to the datasets and technologies used in this project.
 
-## License
-[MIT](LICENSE)
